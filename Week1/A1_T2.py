@@ -1,0 +1,7 @@
+Name1=str("John")
+print(Name1)
+Name2 =str("Harry")
+print(Name2)
+print(Name1, Name2)
+print(Name1,"is eating ice cream with",Name2)
+print(Name1,"and",Name2,"are friends")
