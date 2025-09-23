@@ -8,3 +8,4 @@ Height= input("Enter the height in meters: ")
 print("Width is",width,"m and height is",Height,"m.")
 area=int(width) * int(Height)
 print("The wall will be",area,"square meters.")
+ 
