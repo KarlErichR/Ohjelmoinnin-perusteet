@@ -7,7 +7,6 @@ steps = 0
 
 while num !=0:
     if num <10:
-        print("No more steps.")
         break
     else:
         digits = [int(i) for i in str(num)]
@@ -22,12 +21,9 @@ while num !=0:
                 num *= j 
                 print(f"{j} = {num}")
 
-if num == 0:
-    print("No more steps")
-    
+
+print("No more steps")
+
 print(f"\nThis program took {steps} step(s)")
 
 print("\nProgram ending.")
-            
-            
- 
