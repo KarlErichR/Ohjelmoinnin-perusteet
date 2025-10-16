@@ -22,7 +22,7 @@ while num !=0:
                 print(f"{j} = {num}")
 
 
-print("No more steps")
+print("No more steps.")
 
 print(f"\nThis program took {steps} step(s)")
 
